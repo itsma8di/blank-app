@@ -1,6 +1,6 @@
 ##########################################################
-# to run: FLASK_APP=server.py flask run
-##########################################################
+# to run: 
+########################################FLASK_APP=server.py flask run##################
 import json
 from flask import Flask, request
 
