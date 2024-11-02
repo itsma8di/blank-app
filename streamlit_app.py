@@ -35,4 +35,4 @@ def streamlit():
     st.set_page_config(page_title="My Streamlit App")
     st.write("Hello, world!")
 if __name__ == '__main__':
-    app.run()
+    app.run(port=8000)
